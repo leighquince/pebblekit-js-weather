@@ -18,7 +18,7 @@
       {
         "type": "png",
         "name": "IMAGE_SUN",
-        "file": "img/sun-bw.png"
+        "file": "img/sun~bw.png"
       },
       {
         "type": "png",
@@ -28,12 +28,12 @@
       {
         "type": "png",
         "name": "IMAGE_CLOUD",
-        "file": "img/cloud-bw.png"
+        "file": "img/cloud~bw.png"
       },
       {
         "type": "png",
         "name": "IMAGE_SNOW",
-        "file": "img/snow-bw.png"
+        "file": "img/snow~bw.png"
       }
     ]
   },
